@@ -1,0 +1,5 @@
+side.html = yeni bir blog yazısı için olan alan 
+
+blog yazısı ekleyeceğin zaman ilgili konu dosyasının altına o konu ile ilgili side html den yeni sayfa oluştur
+
+yeni konu ekleyeceğin zaman tag ve topics den ekelemen yeterli 
